@@ -1,0 +1,22 @@
+.header-top{
+  max-width: 1000px;
+  background-color:lightgray;
+  margin: auto;
+
+}
+.title-logo{
+  font: bold;
+  font-size: 2rem;
+}
+.header_inner{
+  display: flex;
+  padding:2rem;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav-list ul{
+  display: flex;
+}
+.nav-list ul li{
+  margin-left:1rem;
+}
